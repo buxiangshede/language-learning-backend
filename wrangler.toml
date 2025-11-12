@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 tsconfig = "./tsconfig.json"
 
 [vars]
-ALLOW_MOCK_DATA = "true"
+ALLOW_MOCK_DATA = "false"
 LOG_LEVEL = "info"
 
 [build]
